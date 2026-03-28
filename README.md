@@ -2,6 +2,12 @@
 
 A modern, premium redesign of the RentPe mobile application built with Flutter.
 
+<br>
+<p align="center">
+  <img src="assets/images/app_screenshot.png" alt="RentPe App Screenshot" width="300" />
+</p>
+<br>
+
 ## 🚀 Features
 
 - **Modern UI/UX**: Clean, minimalist design with glassmorphism effects.
